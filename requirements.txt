@@ -1,0 +1,5 @@
+tensorflow==2.21.0
+streamlit==1.67.0
+numpy
+Pillow
+gdown
